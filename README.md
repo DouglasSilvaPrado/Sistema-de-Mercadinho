@@ -5,15 +5,15 @@
  
 <h2 align="center">Tela de Login</h2>
 <div align="center">
-<img src="" width="700px"/>
+<img src="ProjetoMercadinho/src/imagens/TelaLogin.JPG" width="700px"/>
   
 <h2 align="center">Tela Principal</h2>
 <div align="center">
-<img src="" width="700px" />
+<img src="ProjetoMercadinho/src/imagens/TelaMercadinho.JPG" width="700px" />
 </div>
   
 </div>
 <h2 align="center">Tela de Cadastro</h2>  
 <div align="center">
-<img src="" width="700px" />
+<img src="ProjetoMercadinho/src/imagens/TelaCadastro.JPG" width="700px" />
 </div>
